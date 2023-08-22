@@ -1,8 +1,8 @@
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=tekoryu&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-  - 🔭 I’m currently working as a Software Developer in Brasília, Brazil.
-  - 🌱 I’m currently learning Django and Bootstrap.
+  - 🔭 Software Developer, Cyber Security Analyst in Brasília, Brazil.
+  - 🌱 I’m currently working with Django and Bootstrap.
   - 💬 Ask me about Philosophy, Mathematics and Politics.
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My alias comes from Zeorayma, 1997. It was an episode from the TV Show U.S. Mangá Corps and means Steel Dragon.
