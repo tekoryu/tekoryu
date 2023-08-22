@@ -1,7 +1,7 @@
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=tekoryu&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-  - 🔭 Software Developer, Cyber Security Analyst in Brasília, Brazil.
+  - 🔭 Software Developer, Cyber Security Analyst in Public Sector, Government-related projects.
   - 🌱 I’m currently working with Django and Bootstrap.
   - 💬 Ask me about Philosophy, Mathematics and Politics.
   - 😄 Pronouns: He / Him
