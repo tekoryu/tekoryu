@@ -5,7 +5,7 @@
   - 🌱 I’m currently working with Django and Bootstrap.
   - 💬 Ask me about Philosophy, Mathematics and Politics.
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My alias comes from Zeorayma, 1997. It was an episode from the TV Show U.S. Mangá Corps and means Steel Dragon.
+  - ⚡ Fun fact: My alias comes from Zeorayma, 1997. It was an episode from the TV Show U.S. Mangá Corps and it means Steel Dragon.
   
   #### 📫 How to reach me:
   
