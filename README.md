@@ -20,7 +20,7 @@ I build systems that get data out of difficult places and make it useful. Most s
 - **AI-powered extraction** — turning PDFs, documents, and thousands of heterogeneous web pages into clean structured data using LLM pipelines with validation and confidence scoring.
 - **Analysis you can act on** — automated pipelines feeding Power BI and Streamlit dashboards, built on government-scale datasets (millions of rows, dimensional modeling).
 
-By day I'm a Project Manager at the **Presidency of Brazil**, working on data engineering, AI, and security in public administration. That means I'm used to large, messy, real-world data and stakes where "mostly correct" isn't good enough.
+By day, I'm a Project Manager at the **Presidency of Brazil**, working on data engineering, AI, and security in public administration. That means I'm used to large, messy, real-world data and stakes where "mostly correct" isn't good enough.
 
 ### Featured work
 
@@ -39,7 +39,3 @@ By day I'm a Project Manager at the **Presidency of Brazil**, working on data en
 - **Time zone:** Brasília (UTC−3) — full overlap with US East Coast business hours.
 - **Languages:** Portuguese (native), English (fluent), Spanish & German (conversational), Mandarin (learning).
 - **Available for freelance** data scraping, pipeline, and applied-AI work → [reach me on Upwork](TODO-upwork-link).
-
----
-
-<sub>The handle <code>tekoryu</code> means "Steel Dragon" — borrowed from a 1997 anime and kept ever since.</sub>
