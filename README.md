@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="TODO-upwork-link"><img src="https://img.shields.io/badge/Hire%20me-Upwork-14a800?style=for-the-badge" alt="Upwork"></a>
   <a href="https://www.linkedin.com/in/anderson-monteiro-3622923a3/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~01628e4d83af2278bb"><img src="https://img.shields.io/badge/Hire%20me-Upwork-14a800?style=for-the-badge" alt="Upwork"></a>
 </p>
 
 ---
