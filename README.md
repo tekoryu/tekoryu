@@ -39,4 +39,4 @@ By day, I'm a Project Manager at the **Presidency of Brazil**, working on data e
 
 - **Time zone:** Brasília (UTC−3) — full overlap with US East Coast business hours.
 - **Languages:** Portuguese (native), English (fluent), Spanish & German (conversational), Mandarin (learning).
-- **Available for freelance** data scraping, pipeline, and applied-AI work → [reach me on Upwork](TODO-upwork-link).
+- **Available for freelance** data scraping, pipeline, and applied-AI work → [reach me on Upwork](https://www.upwork.com/freelancers/~01628e4d83af2278bb).
